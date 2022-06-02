@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+:root {
+    --primary: #fce2de;
+}
+html,
+body {
+    background-color: var(--primary);
+    width: 100%;
+}
+
+.page {
+    display: block;
+}
